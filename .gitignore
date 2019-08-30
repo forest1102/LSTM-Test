@@ -1,0 +1,8 @@
+logs/
+training_checkpoints/
+ptb.*
+__pycache__/
+*.h5
+cbo_param.pkl
+rrlm_log.txt
+.python-version
